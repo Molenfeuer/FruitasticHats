@@ -1,0 +1,69 @@
+{
+  "Name": "Strawberry Kiss",
+  "Format": "5.8.0",
+  "FrontHat": {
+    "StartingPosition": {
+      "X": 3,
+      "Y": 1
+    },
+    "HeadPosition": {
+      "X": -1,
+      "Y": 3
+    },
+    "HatSize": {
+      "Width": 20,
+      "Length": 15
+    },
+    "HideHair": true,
+    "DisableGrayscale": true
+  },
+  "RightHat": {
+    "StartingPosition": {
+      "X": 31,
+      "Y": 1
+    },
+    "HeadPosition": {
+      "X": -3,
+      "Y": 4
+    },
+    "HatSize": {
+      "Width": 14,
+      "Length": 15
+    },
+    "HideHair": true,
+    "DisableGrayscale": true
+  },
+  "BackHat": {
+    "StartingPosition": {
+      "X": 2,
+      "Y": 26
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 2
+    },
+    "HatSize": {
+      "Width": 19,
+      "Length": 16
+    },
+    "HideHair": true,
+    "DisableGrayscale": true
+  },
+  "LeftHat": {
+    "StartingPosition": {
+      "X": 31,
+      "Y": 1
+    },
+    "HeadPosition": {
+      "X": -3,
+      "Y": 4
+    },
+    "HatSize": {
+      "Width": 14,
+      "Length": 15
+    },
+    "Flipped": true,
+    "HideHair": true,
+    "DisableGrayscale": true
+  }
+}
