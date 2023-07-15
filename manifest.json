@@ -1,0 +1,12 @@
+{
+  "Name": "Fruitastic Hats",
+  "Author": "Nordmole",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Nordmole.FruitasticHats",
+  "UpdateKeys": [ "Nexus:17408" ],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "5.8.0"
+  }
+}

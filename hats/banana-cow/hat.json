@@ -1,0 +1,69 @@
+{
+  "Name": "Banana Cow",
+  "Format": "5.8.0",
+  "FrontHat": {
+    "StartingPosition": {
+      "X": 4,
+      "Y": 2
+    },
+    "HeadPosition": {
+      "X": -2,
+      "Y": 2
+    },
+    "HatSize": {
+      "Width": 16,
+      "Length": 14
+    },
+    "HideHair": true,
+    "DisableGrayscale": true
+  },
+  "RightHat": {
+    "StartingPosition": {
+      "X": 31,
+      "Y": 2
+    },
+    "HeadPosition": {
+      "X": -3,
+      "Y": 3
+    },
+    "HatSize": {
+      "Width": 13,
+      "Length": 14
+    },
+    "HideHair": true,
+    "DisableGrayscale": true
+  },
+  "BackHat": {
+    "StartingPosition": {
+      "X": 4,
+      "Y": 27
+    },
+    "HeadPosition": {
+      "X": -2,
+      "Y": 1
+    },
+    "HatSize": {
+      "Width": 16,
+      "Length": 15
+    },
+    "HideHair": true,
+    "DisableGrayscale": true
+  },
+  "LeftHat": {
+    "StartingPosition": {
+      "X": 31,
+      "Y": 2
+    },
+    "HeadPosition": {
+      "X": -4,
+      "Y": 3
+    },
+    "HatSize": {
+      "Width": 13,
+      "Length": 14
+    },
+    "Flipped": true,
+    "HideHair": true,
+    "DisableGrayscale": true
+  }
+}
